@@ -1,0 +1,10 @@
+C:\Users\SherylMejia\Desktop\5-1D First Sem\Object Oriented Programming\ASSIGNMENTS\Assignment 6\Contact Tracing\Contact Tracing\Contact Tracing\bin\Debug\Contact Tracing.exe.config
+C:\Users\SherylMejia\Desktop\5-1D First Sem\Object Oriented Programming\ASSIGNMENTS\Assignment 6\Contact Tracing\Contact Tracing\Contact Tracing\bin\Debug\Contact Tracing.exe
+C:\Users\SherylMejia\Desktop\5-1D First Sem\Object Oriented Programming\ASSIGNMENTS\Assignment 6\Contact Tracing\Contact Tracing\Contact Tracing\bin\Debug\Contact Tracing.pdb
+C:\Users\SherylMejia\Desktop\5-1D First Sem\Object Oriented Programming\ASSIGNMENTS\Assignment 6\Contact Tracing\Contact Tracing\Contact Tracing\obj\Debug\Contact Tracing.csproj.AssemblyReference.cache
+C:\Users\SherylMejia\Desktop\5-1D First Sem\Object Oriented Programming\ASSIGNMENTS\Assignment 6\Contact Tracing\Contact Tracing\Contact Tracing\obj\Debug\Contact_Tracing.Form1.resources
+C:\Users\SherylMejia\Desktop\5-1D First Sem\Object Oriented Programming\ASSIGNMENTS\Assignment 6\Contact Tracing\Contact Tracing\Contact Tracing\obj\Debug\Contact_Tracing.Properties.Resources.resources
+C:\Users\SherylMejia\Desktop\5-1D First Sem\Object Oriented Programming\ASSIGNMENTS\Assignment 6\Contact Tracing\Contact Tracing\Contact Tracing\obj\Debug\Contact Tracing.csproj.GenerateResource.cache
+C:\Users\SherylMejia\Desktop\5-1D First Sem\Object Oriented Programming\ASSIGNMENTS\Assignment 6\Contact Tracing\Contact Tracing\Contact Tracing\obj\Debug\Contact Tracing.csproj.CoreCompileInputs.cache
+C:\Users\SherylMejia\Desktop\5-1D First Sem\Object Oriented Programming\ASSIGNMENTS\Assignment 6\Contact Tracing\Contact Tracing\Contact Tracing\obj\Debug\Contact Tracing.exe
+C:\Users\SherylMejia\Desktop\5-1D First Sem\Object Oriented Programming\ASSIGNMENTS\Assignment 6\Contact Tracing\Contact Tracing\Contact Tracing\obj\Debug\Contact Tracing.pdb

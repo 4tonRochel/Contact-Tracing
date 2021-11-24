@@ -1,0 +1,10 @@
+First Name: hehehe
+Last Name: huhuhu
+Age: 12
+Complete Address: here
+Phone Number: 124562
+Gender: Female
+Have you come into contact with a person who has a confirmed or suspected case of COVID-19 within the past 14 days? <No>
+Experiencing:
+New and persistent cough
+No Symptoms
